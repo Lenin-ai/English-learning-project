@@ -1,0 +1,29 @@
+# ---- ANDROID ----
+*.iml
+.gradle/
+build/
+.idea/
+local.properties
+*.log
+captures/
+output.json
+.DS_Store
+*.keystore
+
+# ---- JAVA / SPRING BOOT ----
+/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# ---- GENERAL ----
+*.env
+*.DS_Store
+*.log
+*.tmp
